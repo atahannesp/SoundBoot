@@ -1,0 +1,25 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!target/*.jar
+*~
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Mac
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Uploads / Data (Do not copy existing local data to the container builder)
+uploads/
