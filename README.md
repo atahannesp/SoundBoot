@@ -19,7 +19,7 @@ Uploaded audio files are processed and segmented into `.m3u8` and `.ts` chunks u
 ## Tech Stack
 
 - **Java 21 (LTS)**
-- **Spring Boot 3.x**
+- **Spring Boot 4.0.6**
 - **Spring Security & JWT**
 - **Spring Data JPA / Hibernate**
 - **PostgreSQL**
