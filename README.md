@@ -43,7 +43,7 @@ The project is containerized using a multi-stage Docker build to optimize contai
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/SoundBoot.git](https://github.com/YOUR_USERNAME/SoundBoot.git)
+   git clone https://github.com/atahannesp/SoundBoot.git
    cd SoundBoot
    ```
 
